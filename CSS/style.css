@@ -1,0 +1,64 @@
+
+.pricing div
+{
+    border:3px solid blue;
+    text-align: center;
+    font-size: 14px;    
+    box-shadow: 5px 10px #347cce;
+    border-radius: 10px;
+   
+    
+    
+}
+.pricing div:hover
+{
+background-color:skyblue !important;
+ 
+
+}
+.headings
+{
+    font-weight:bold;
+    color:blue;
+}
+.description
+{
+    font-size: 15px;
+    font-style: italic;
+}
+button
+{
+    padding:20px 40px;
+    border-radius:20px;
+    border:none;
+    color:white;
+    font-size:17px;
+    background-color: blue;
+    font-weight:bold;
+}
+
+
+.pricing span 
+{
+    font-weight: bold;
+    font-size:25px;
+    color:blue;
+}
+.imgsetting:hover
+{
+    transform: scale(1.1);
+}
+.designation
+{
+    font-size:15px;
+    color:gray;
+    font-weight: bold;
+}
+.about
+{
+    font-size: 16px;
+}
+.wrapper
+{
+    overflow:hidden;
+}
